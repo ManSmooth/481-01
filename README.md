@@ -1,2 +1,2 @@
 # 481-01
-Answers to the assignment is documented inside `assignment.ipynb` file.
+Answers to the assignment are documented inside `assignment.ipynb` file.
